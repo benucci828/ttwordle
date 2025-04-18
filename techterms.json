@@ -1,0 +1,282 @@
+[
+  {
+    "term": "qubit",
+    "definition_url": "https://www.techtarget.com/whatis/definition/qubit",
+    "intro": "A qubit (short for quantum bit) is the basic unit of information inquantum computingand counterpart to the bit (binary digit) inclassical computing. A qubit plays a similar role as a bit, in terms of storing information, but it behaves much differently because of the quantum properties on which it's based."
+  },
+  {
+    "term": "webos",
+    "definition_url": "https://www.techtarget.com/whatis/definition/webOS",
+    "intro": "WebOS is an LG-owned,Linux-based operating system for smart devices, particularlysmart TVs. The OS runs on LG televisions, as well as on a limited number of other LG devices, including refrigerators, projectors anddigital signage. In addition, several third-party vendors now license webOS from LG for their smart TVs, including RCA, Ayonz and Konka. The OS is also making headway into the auto industry, where the system is being used for carinfotainment systems."
+  },
+  {
+    "term": "baidu",
+    "definition_url": "https://www.techtarget.com/whatis/definition/Baidu",
+    "intro": "Baidu (\u767e\u5ea6) is a Chinese technology company. Its primary business is internet search in the China market. Baidu also provides other internet services and artificial intelligence (AI) development. The multinational company was founded by Robin Li and Eric Xu in 2000 and is headquartered in Beijing."
+  },
+  {
+    "term": "tier0",
+    "definition_url": "https://www.techtarget.com/searchstorage/definition/Tier-0",
+    "intro": "Tier 0 is a level of data storage that is faster, and perhaps more expensive, than any other level in the storage hierarchy."
+  },
+  {
+    "term": "cdrom",
+    "definition_url": "https://www.techtarget.com/whatis/definition/CD-ROM",
+    "intro": "A CD-ROM (Compact Disc Read-Only Memory) is a type ofcompact discthat can only be read, not written to. It is a digital storage medium that can hold large amounts ofdata, including text, images and audio."
+  },
+  {
+    "term": "macos",
+    "definition_url": "https://www.techtarget.com/whatis/definition/Mac-OS",
+    "intro": "MacOS is the computer\u00a0operating system\u00a0(OS) for Apple desktops and laptops. It is a proprietary graphical OS that powers every Mac."
+  },
+  {
+    "term": "glyph",
+    "definition_url": "https://www.techtarget.com/whatis/definition/glyph",
+    "intro": "In information technology, a glyph -- from a Greek word meaning carving -- is a graphic symbol that provides the appearance or form for a character. It can be an alphabetic or numeric character, or a symbol. Glyphs can be found in a variety offonts, and they can be used to represent characters in numerous languages."
+  },
+  {
+    "term": "venmo",
+    "definition_url": "https://www.techtarget.com/whatis/definition/Venmo",
+    "intro": "Venmo is a smartphone app designed to transfer payments from one user to another through connected bank accounts. Venmo is owned by PayPal."
+  },
+  {
+    "term": "abend",
+    "definition_url": "https://www.techtarget.com/searchdatacenter/definition/abend",
+    "intro": "An abend is an unexpected or abnormal termination of anapplicationoroperating systemthat results from a problem with thesoftware. The term abend -- sometimes referred to as ABEND -- is a combination of the wordsabnormalandend, coined when operator messages needed to be as short as possible."
+  },
+  {
+    "term": "zwave",
+    "definition_url": "https://www.techtarget.com/iotagenda/definition/Z-Wave",
+    "intro": "Z-Wave is a wireless communication protocol used primarily insmart home networks, allowing smart devices to connect and exchange control commands and data with each other."
+  },
+  {
+    "term": "virus",
+    "definition_url": "https://www.techtarget.com/searchsecurity/definition/virus",
+    "intro": "A computer virus is a type ofmalwarethat attaches itself to a program or file. A virus can replicate and spread across an infected system and it often propagates to other systems, much like a biological virus spreads from host to host. Once a virus has infected a system, it can attach to other programs or documents, modify or destroy them, or control how the computer or other devices behave."
+  },
+  {
+    "term": "x8664",
+    "definition_url": "https://www.techtarget.com/whatis/definition/x86-64",
+    "intro": "x86-64 (also called x86_64, x64, or amd64) is the64-bitCPU architecture that is used inIntelandAMDprocessors. It is an extension to the 32-bit x86 (i386) architecture."
+  },
+  {
+    "term": "hipaa",
+    "definition_url": "https://www.techtarget.com/searchhealthit/definition/HIPAA",
+    "intro": "HIPAA (Health Insurance Portability and Accountability Act) is United States legislation that providesdata privacyand security provisions forsafeguarding medical information. The law has emerged into greater prominence in recent years with the many healthdata breachescaused by cyber attacks andransomwareattacks on health insurers and providers."
+  },
+  {
+    "term": "owasp",
+    "definition_url": "https://www.techtarget.com/searchsoftwarequality/definition/OWASP",
+    "intro": "The Open Web Application Security Project (OWASP) is a nonprofit foundation that provides guidance on how to develop, purchase and maintain trustworthy and secure software applications. OWASP is noted for its popular Top 10 list of webapplication securityvulnerabilities."
+  },
+  {
+    "term": "nimda",
+    "definition_url": "https://www.techtarget.com/searchsecurity/definition/Nimda",
+    "intro": "First appearing on September 18, 2001, Nimda is a computervirusthat caused traffic slowdowns as it rippled across theInternet. Nimda spread through four different methods, infecting computers containing Microsoft Window'sweb server, known as Internet Information Server (IIS), and computer users who opened an email attachment."
+  },
+  {
+    "term": "bitly",
+    "definition_url": "https://www.techtarget.com/whatis/definition/Bitly",
+    "intro": "Bitly is aURLshortener service that enables users to shorten website links established in 2008. Bitly can also generateQR codesand create \"link-in-bios'' forInstagramusers, which lets them add clickable links to their profile -- a feature that Instagram does not currently offer. Bitly also offers users powerfulweb analyticaltools, the ability to track trends and options for brand management."
+  },
+  {
+    "term": "calms",
+    "definition_url": "https://www.techtarget.com/whatis/definition/CALMS",
+    "intro": "CALMS is a conceptual framework for the integration of development and operations (DevOps) teams, functions and systems within an organization. By adopting CALMS, organizations can assess their ability to adopt DevOps methodologies and, ultimately, improve their software development operations and delivery."
+  },
+  {
+    "term": "html5",
+    "definition_url": "https://www.techtarget.com/whatis/definition/HTML5",
+    "intro": "HTML5 is commonly thought to be the fifthversion, or release, of the Hypertext Markup Language (HTML), a standardized descriptive language that specifies how tostructure webpages. Despite this usage, the term HTML5 is now treated as more of a buzzword than a version, one that loosely describes a set of modern web technologies, including HTML."
+  },
+  {
+    "term": "hddvd",
+    "definition_url": "https://www.techtarget.com/searchstorage/definition/HD-DVD",
+    "intro": "HD-DVD (high-definition DVD) is a defunct high-capacityoptical storagemedium that was once seen as the successor to the DVD. A standard single-sided, one-layer DVD can hold 4.7 gigabytes of data and 8.5 GB if it's a double-layer disc. A single-layer HD-DVD stores up to 15 GB of storage capacity, and a dual-layer disk provides up to 30 GB."
+  },
+  {
+    "term": "gmail",
+    "definition_url": "https://www.techtarget.com/whatis/definition/Gmail",
+    "intro": "Gmail (pronouncedGee-mail) is a free web-basedemailservice that provides users with 15GBof storage for messages and the ability to search for specific messages."
+  },
+  {
+    "term": "vcard",
+    "definition_url": "https://www.techtarget.com/whatis/definition/vCard",
+    "intro": "A vCard is an electronic business or personal card and also the name of an industry specification for the kind of communication exchange that is done on business or personal cards. You may have seen a vCard attached to an email note someone has sent you."
+  },
+  {
+    "term": "gcode",
+    "definition_url": "https://www.techtarget.com/whatis/definition/G-code",
+    "intro": "G-code, also known as geometric code or RS-274, is the most prevalent programming language for computer numerical control (CNC) machines used in computer-aided design and computer-aided manufacturing (CAD/CAM). G-code commands provide what-, which- and how-type instructions to the machine, such as what to do, how to do it, where to move, which path to follow, etc."
+  },
+  {
+    "term": "noise",
+    "definition_url": "https://www.techtarget.com/whatis/definition/noise",
+    "intro": "A quantum logic gate is a basic quantum device that operates on a small number of quantum bits or qubits.See More."
+  },
+  {
+    "term": "yahoo",
+    "definition_url": "https://www.techtarget.com/whatis/definition/Yahoo",
+    "intro": "Yahoo, orYahoo.com, is a web services provider that offers both asearch engineand a directory of World Wide Web pages organized in a hierarchy of topic categories."
+  },
+  {
+    "term": "bogon",
+    "definition_url": "https://www.techtarget.com/searchnetworking/definition/bogon",
+    "intro": "A bogon is an illegitimateInternet Protocol addressthat falls into a set of IP addresses that have not been officially assigned to an entity by an internet registration institute, such as the Internet Assigned Numbers Authority (IANA). Bogons arise as a result of a misconfiguration or intentional misuse that tricks recipients about its source IP address. The termbogonis a slang term and derives from the wordbogus."
+  },
+  {
+    "term": "wifi6",
+    "definition_url": "https://www.techtarget.com/whatis/definition/Wi-Fi6",
+    "intro": "Wi-Fi 6, also known as 802.11ax, is the latest generation and standard for wireless networking thatreplaces the 802.11ac, or Wi-Fi 5, standard. Prior to the release of Wi-Fi 6,Wi-Fistandards were identified by version numbers ranging from 802.11b to 802.11ac."
+  },
+  {
+    "term": "gmpls",
+    "definition_url": "https://www.techtarget.com/searchnetworking/definition/GMPLS",
+    "intro": "GMPLS (Generalized Multiprotocol Label Switching) is a networking technology that enables fast and reliable network switching of data flows on any type of network infrastructure. GMPLS extends Multiprotocol Label Switching (MPLS) by adding support for time-division multiplexing (TDM),optical fiberswitching, Layer 2 switching, and optical wavelength switching, in addition to packet-based switching."
+  },
+  {
+    "term": "hsdpa",
+    "definition_url": "https://www.techtarget.com/searchmobilecomputing/definition/HSDPA",
+    "intro": "High-Speed Downlink Packet Access (HSPDA) is a packet-based mobile telephony protocol used in3GUniversal Mobile Telecommunications Service (UMTS) radio networks to increase data capacity and speed up download rates. Part of the HSPA standard, it offers a maximum theoretical download rate of 14.4Mbpsand accommodates simultaneous downloads, uploads and voice service. As an improved 3G cellular radio standard, it's sometimes called 3.5G or 3G+."
+  },
+  {
+    "term": "webgl",
+    "definition_url": "https://www.techtarget.com/whatis/definition/WebGL",
+    "intro": "WebGL is a graphics application programming interface (API) created for use in web applications. It is based off the open graphics language (OpenGL)embeddedstandard (ES)."
+  },
+  {
+    "term": "xacml",
+    "definition_url": "https://www.techtarget.com/searchcio/definition/XACML",
+    "intro": "Extensible Access Control Markup Language is an attribute-basedaccess controlpolicy language orXML-based language, designed to expresssecurity policiesand access requests to information."
+  },
+  {
+    "term": "web30",
+    "definition_url": "https://www.techtarget.com/whatis/definition/Web-30",
+    "intro": "What if the web could conjure up exactly the information you needed in exactly the format you wanted -- before you knew enough to ask for it?"
+  },
+  {
+    "term": "jedec",
+    "definition_url": "https://www.techtarget.com/searchstorage/definition/JEDEC",
+    "intro": "JEDEC is a global industry group that develops open standards for microelectronics. JEDEC originally stood for Joint Electron Device Engineering Council, but it's now known as the JEDEC Solid State Technology Association. The group has more than 3,000 volunteer members representing nearly 350 member companies."
+  },
+  {
+    "term": "query",
+    "definition_url": "https://www.techtarget.com/searchdatamanagement/definition/query",
+    "intro": "A query is a question or a request for information expressed in a formal manner. In computer science, a query usually refers to a request for information to be extracted from adatabase."
+  },
+  {
+    "term": "maven",
+    "definition_url": "https://www.techtarget.com/searchapparchitecture/definition/Maven",
+    "intro": "Maven is aproject managementbuild tool used primarily in Java development. Hosted by the Apache Software Foundation, Maven originated as part of the Jakarta Project."
+  },
+  {
+    "term": "massm",
+    "definition_url": "https://www.techtarget.com/whatis/definition/mass-m",
+    "intro": "A quantum logic gate is a basic quantum device that operates on a small number of quantum bits or qubits.See More."
+  },
+  {
+    "term": "image",
+    "definition_url": "https://www.techtarget.com/whatis/definition/image",
+    "intro": "An image is a visual representation of something, while a digital image is abinaryrepresentation of visual data. These images can take the form of photographs, graphics and individual video frames. For this purpose, an image is a picture that was created or copied and stored in electronic form."
+  },
+  {
+    "term": "viber",
+    "definition_url": "https://www.techtarget.com/whatis/definition/Viber",
+    "intro": "Viber is aVoIPandinstant messagingapplication withcross-platformcapabilities that allows users to exchange audio and video calls, stickers, group chats, and instant voice and video messages. It Is a product of Rakuten\u00a0Viber, a multinational internet company headquartered in\u00a0Setagaya-ku, Tokyo, Japan."
+  },
+  {
+    "term": "oauth",
+    "definition_url": "https://www.techtarget.com/searchapparchitecture/definition/OAuth",
+    "intro": "OAuth (Open Authorization) is an open standard authorization framework fortoken-based authorization on the internet. OAuth, which is pronounced \"oh-auth,\" enables an end user's account information to be used by third-party services, such as Facebook and Google, without exposing the user's account credentials to the third party. It acts as an intermediary on behalf of the end user, providing the third-party service with an access token that authorizes specific account information to be shared. The process for obtaining the token is called an authorization flow or grant."
+  },
+  {
+    "term": "vimeo",
+    "definition_url": "https://www.techtarget.com/whatis/definition/Vimeo",
+    "intro": "Video streaming is a continuous transmission of video files from a server to a client. Video streaming enables users to view videos online without having to download them."
+  },
+  {
+    "term": "noops",
+    "definition_url": "https://www.techtarget.com/searchitoperations/definition/NoOps",
+    "intro": "NoOps (no operations) is a concept that an IT environment can become so automated and abstracted from the underlyinginfrastructurethat there's no need for a dedicated team to managesoftwarein-house."
+  },
+  {
+    "term": "icd10",
+    "definition_url": "https://www.techtarget.com/searchhealthit/definition/ICD-10",
+    "intro": "The International Classification of Diseases, 10th Revision (ICD-10), is a global standard for classifying and coding mortality and morbidity data. The U.S. adopted ICD-10 for mortality coding on death certificates in 1999. Sixteen years later, the U.S. adopted ICD-10 for morbidity, but did so indirectly by creating its own standards based on the ICD-10 codes. The U.S. standards became effective on Oct. 1, 2015."
+  },
+  {
+    "term": "flash",
+    "definition_url": "https://www.techtarget.com/whatis/definition/Flash",
+    "intro": "Adobe Flash is a software platform used to create rich digital content containing animation, graphic effects,streaming videoand other interactive elements to deliver engaging user experiences over many platforms, includingdesktopsandmobile devices."
+  },
+  {
+    "term": "fdisk",
+    "definition_url": "https://www.techtarget.com/whatis/definition/FDISK",
+    "intro": "FDISK is a diskutilityincluded in all versions ofMS-DOS,WindowsandLinuxfor formatting or partitioning ahard disk drive, or to delete different portions of it. FDISK is an external utility. It is most commonly used to prepare andpartitiona hard drive."
+  },
+  {
+    "term": "field",
+    "definition_url": "https://www.techtarget.com/searchoracle/definition/field",
+    "intro": "A quantum logic gate is a basic quantum device that operates on a small number of quantum bits or qubits.See More."
+  },
+  {
+    "term": "cache",
+    "definition_url": "https://www.techtarget.com/searchstorage/definition/cache",
+    "intro": "A cache -- pronounced CASH -- is hardware or software that is used to store something, usually data, temporarily in a computing environment."
+  },
+  {
+    "term": "ebxml",
+    "definition_url": "https://www.techtarget.com/searchcio/definition/ebXML",
+    "intro": "EbXML (Electronic Business XML or e-business XML) is a project to use the Extensible Markup Language (XML) to standardize the secure exchange of business data. EbXML was last updated in 2007 and is currently in version 3.0."
+  },
+  {
+    "term": "laser",
+    "definition_url": "https://www.techtarget.com/whatis/definition/laser",
+    "intro": "A laser is a coherent\u00a0and focused beam of\u00a0photons; coherent, in this context, means that it is all onewavelength, unlike ordinary light which showers on us in many wavelengths."
+  },
+  {
+    "term": "hertz",
+    "definition_url": "https://www.techtarget.com/searchmobilecomputing/definition/hertz",
+    "intro": "Hertz (Hz) is the standard unit of frequency in the International System of Units (SI). It is a derived unit based on the second (s), one of the seven base units in the SI standard. The base units, in turn, are constructed from the seven SI defining constants. The SI equation for hertz is Hz = s-1(also written as Hz = 1/s). In practice, this means that a hertz is equivalent 1 waveform cycle per second, when applied to electromagnetic (EM) radiation or to sound and other vibrations. Hertz replaces the earlier term of \"cycle per second.\""
+  },
+  {
+    "term": "m2ssd",
+    "definition_url": "https://www.techtarget.com/searchstorage/definition/M2-SSD",
+    "intro": "An M.2 SSD is a small form factor solid-state drive (SSD) that internally mounted storage expansion cards use. M.2 SSDs conform to a computer industry specification and are designed to enable high-performance storage in thin, power-constrained devices, such as ultrabook laptops and tablet computers. They are generally smaller than other comparable SSDs, such as the mini Serial Advanced Technology Attachment (mSATA)."
+  },
+  {
+    "term": "scrum",
+    "definition_url": "https://www.techtarget.com/searchsoftwarequality/definition/Scrum",
+    "intro": "Scrum is a framework for project management that emphasizes teamwork, accountability anditerativeprogress toward a well-defined goal. The framework begins with a simple premise: Start with what can be seen or known. After that, track the progress and tweak, as necessary."
+  },
+  {
+    "term": "table",
+    "definition_url": "https://www.techtarget.com/whatis/definition/table",
+    "intro": "A table in computer programming is adata structureused to organize information, just as it is on paper. There are many different types of computer-related tables that work in a number of different ways. Which type of table is used depends on the type of data being compiled and what type of analysis is needed."
+  },
+  {
+    "term": "logon",
+    "definition_url": "https://www.techtarget.com/searchsecurity/definition/logon",
+    "intro": "In computing, a logon is a procedure that enables an entity to access a secure system such as anoperating system, application, service, website or other resource. The entity is typically an end user, although it can also be another system, such as a computer, service or application. For example, a logon process is usually carried out when an application accesses adatabase. In such cases, the logon operation occurs behind the scenes, without user intervention beyond the initial setup."
+  },
+  {
+    "term": "token",
+    "definition_url": "https://www.techtarget.com/whatis/definition/token",
+    "intro": "In general, a token is an object that represents something else, such as another object (either physical or virtual), or an abstract concept as, for example, a gift is sometimes referred to as a token of the giver's esteem for the recipient. In computers, there are a number of types of tokens."
+  },
+  {
+    "term": "wifi7",
+    "definition_url": "https://www.techtarget.com/searchnetworking/definition/Wi-Fi-7",
+    "intro": "Wi-Fi 7 is the pending 802.11be standard under development by IEEE. The Wi-Fi Alliance branded the IEEE 802.11be standard as Wi-Fi 7 to create a simpler naming system for conversational ease. And, so, 802.11be equals Wi-Fi 7."
+  },
+  {
+    "term": "bootp",
+    "definition_url": "https://www.techtarget.com/searchnetworking/definition/BOOTP",
+    "intro": "BOOTP (Bootstrap Protocol) is aninternet protocolthat lets a network user automatically be configured to receive anIP addressand have anoperating systembooted without user involvement."
+  },
+  {
+    "term": "phase",
+    "definition_url": "https://www.techtarget.com/whatis/definition/phase",
+    "intro": "In electronic signaling, a phase is the position of a wave at a point in time (instant) on awaveformcycle. It provides a measurement of exactly where the wave is positioned within its cycle, using either degrees (0-360) or radians (0-2\u03c0). One radian of a phase is equal to about 57.3 degrees. Engineers and technicians generally use degrees; physicists tend to use radians, although there are no hard-and-fast rules about usage."
+  }
+]
