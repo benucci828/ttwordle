@@ -35,7 +35,6 @@ function renderEmptyBoard() {
   }
 
   const keyRows = [
-    "0123456789",
     "QWERTYUIOP",
     "ASDFGHJKL",
     "ZXCVBNM"
