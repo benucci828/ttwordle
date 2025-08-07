@@ -173,26 +173,49 @@ function renderEmptyBoard() {
   }
   
 
-  function updateBoard(row, guess) {
-    for (let i = 0; i < guess.length; i++) {
-      const letter = guess[i];
-      const tile = document.getElementById(`tile-${row}-${i}`);
-  
-      // Delay flip for staggered reveal
-      setTimeout(() => {
-        tile.textContent = letter.toUpperCase();
-        tile.classList.add("flip");
-  
-        if (letter === target.term[i]) {
-          tile.classList.add("correct");
-        } else if (target.term.includes(letter)) {
-          tile.classList.add("present");
-        } else {
-          tile.classList.add("absent");
-        }
-      }, i * 300);
+function updateBoard(row, guess) {
+  const targetTerm = target.term.toLowerCase();
+  const guessLetters = guess.toLowerCase().split("");
+  const targetLetters = targetTerm.split("");
+
+  const tileStates = Array(5).fill("absent"); // default all tiles to gray
+  const letterCounts = {}; // to count available letters in target
+
+  // Count how many times each letter appears in the target
+  for (let ch of targetLetters) {
+    letterCounts[ch] = (letterCounts[ch] || 0) + 1;
+  }
+
+  // First pass: mark correct (green)
+  for (let i = 0; i < 5; i++) {
+    if (guessLetters[i] === targetLetters[i]) {
+      tileStates[i] = "correct";
+      letterCounts[guessLetters[i]]--; // consume one occurrence
     }
   }
+
+  // Second pass: mark present (yellow)
+  for (let i = 0; i < 5; i++) {
+    const letter = guessLetters[i];
+    if (tileStates[i] === "correct") continue;
+
+    if (letterCounts[letter] > 0) {
+      tileStates[i] = "present";
+      letterCounts[letter]--; // consume the letter
+    }
+  }
+
+  // Apply classes to tiles
+  for (let i = 0; i < 5; i++) {
+    const tile = document.getElementById(`tile-${row}-${i}`);
+    tile.textContent = guessLetters[i].toUpperCase();
+    tile.classList.add("flip");
+
+    tile.classList.remove("correct", "present", "absent");
+    tile.classList.add(tileStates[i]);
+  }
+}
+
   
 
   function endGame(won) {
