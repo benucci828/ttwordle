@@ -35,6 +35,7 @@ function renderEmptyBoard() {
   }
 
   const keyRows = [
+    "1234567890",
     "QWERTYUIOP",
     "ASDFGHJKL",
     "ZXCVBNM"
@@ -249,8 +250,8 @@ document.addEventListener("DOMContentLoaded", () => {
       submitGuess();
     } else if (key === "Backspace") {
       handleKey("BACKSPACE");
-    } else if (/^[a-zA-Z]$/.test(key)) {
-      handleKey(key.toUpperCase());
-    }
+    } else if (/^[a-zA-Z0-9]$/.test(key)) {
+  handleKey(key.toUpperCase());
+}
   });
   
